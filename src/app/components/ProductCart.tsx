@@ -2,8 +2,10 @@ import AddtoCard from "./AddtoCard"
 
 const ProductCart = () => {
   return (<>
-  <div>ProductCart</div>
-    <AddtoCard/>
+  <div>
+  <AddtoCard/>
+  </div>
+    
   </>
     
   )

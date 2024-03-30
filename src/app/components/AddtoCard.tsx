@@ -1,10 +1,7 @@
 'use client'
 const AddtoCard = () => {
-
- 
-
   return (
-    <button onClick={()=>console.log("Amit")}>add to cart</button>
+    <button className='btn btn-primary' onClick={()=>console.log("Amit")}>Add To Cart</button>
   )
 }
 export default AddtoCard

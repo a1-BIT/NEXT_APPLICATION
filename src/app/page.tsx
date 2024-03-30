@@ -8,7 +8,7 @@ export default function Home() {
       <h1>        Hellow World
       </h1>
       <div> <Link href='users'>users</Link></div>
-      <ProductCart/>
+      <ProductCart />
     </div>
   );
 }
